@@ -1,3 +1,4 @@
-class Manager
+class Manager:Employee
 {
+public:
 };
